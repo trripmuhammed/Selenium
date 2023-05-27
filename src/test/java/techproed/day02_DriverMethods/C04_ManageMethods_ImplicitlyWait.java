@@ -28,7 +28,7 @@ public class C04_ManageMethods_ImplicitlyWait {
         driver.get(techproUrl);
 
         //amazona gidelim
-        String amazonUrl = "https://www.amazon";
+        String amazonUrl = "https://www.amazon.com";
         driver.get(amazonUrl);
 
         //techproed sayfasina geri don
